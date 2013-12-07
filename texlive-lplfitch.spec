@@ -6,7 +6,7 @@
 # catalog-version 0.9
 Name:		texlive-lplfitch
 Version:	0.9
-Release:	4
+Release:	5
 Summary:	Fitch-style natural deduction proofs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lplfitch
