@@ -3,7 +3,7 @@ Version:	31077
 Release:	2
 Summary:	Fitch-style natural deduction proofs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lplfitch
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lplfitch
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lplfitch.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lplfitch.doc.r%{version}.tar.xz
